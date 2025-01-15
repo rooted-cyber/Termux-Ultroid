@@ -2,7 +2,5 @@
 
 # Installation
 ```
-bash -c "$(curl -fsSl https://gist.githubusercontent.com/rooted-cyber/ce6248bd681844d35a12bd210989eb89/raw/install)"
-tu ult
-sm
+curl -Ls https://gist.githubusercontent.com/rooted-cyber/2cc22b51cbba1c49e5519bc4ee9049ee/Termux-Ultroid | bash
 ```
